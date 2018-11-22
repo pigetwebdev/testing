@@ -1,0 +1,39 @@
+{
+  "Products": [
+    {
+      "id" : 1,
+      "name": "Sample Product",
+      "active": true
+    },
+    {
+      "id" : 2,
+      "name": "Sample Product",
+      "active": true
+    },
+    {
+      "id" : 3,
+      "name": "Sample Product",
+      "active": true
+    },
+    {
+      "id" : 4,
+      "name": "Sample Product",
+      "active": true
+    },
+    {
+      "id" : 5,
+      "name": "Sample Product",
+      "active": true
+    },
+    {
+      "id" : 6,
+      "name": "Sample Product",
+      "active": true
+    },
+    {
+      "id" : 7,
+      "name": "Sample Product",
+      "active": true
+    }
+  ]
+}
