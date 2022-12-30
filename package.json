@@ -9,7 +9,7 @@
     "react-dom": "^16.4.1",
     "react-modal": "^3.6.1",
     "react-redux": "^5.0.7",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "react_modal": "^1.0.5",
     "redux": "^4.0.0"
   },
